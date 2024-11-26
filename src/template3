@@ -1,0 +1,2 @@
+Randomly synthesize template containing questions and solutions from separated question and solution files.
+Each mmd file (each page) consists of from 2 to 3 questions with corresponding solutions.
