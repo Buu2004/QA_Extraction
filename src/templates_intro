@@ -1,6 +1,6 @@
 TEMPLATE 1
 Randomly synthesize template containing questions, answers and solutions from separated question, answer and solution files.
-Each mmd file (each page) consists of from 3 to 4 questions with corresponding answers and solutions.
+Each mmd file (each page) consists of from 2 to 4 questions with corresponding answers and solutions.
 
 TEMPLATE 2
 Randomly synthesize template containing questions from separated question files.
